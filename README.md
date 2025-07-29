@@ -26,3 +26,9 @@
   
 [통신]
 * 차량으로 부터 특정 신호가 송신되면 현재 신호등의 남은 시간과 추가 시간을 송신함.
+
+## Functional Block Diagram
+<img width="1112" height="639" alt="Image" src="https://github.com/user-attachments/assets/87c2d37e-b554-424c-aefb-57399ca156aa" />
+
+## Sequence Diagram
+<img width="904" height="461" alt="Image" src="https://github.com/user-attachments/assets/0340e05b-f37c-4854-a6d7-b5d03fdb1bc8" />
