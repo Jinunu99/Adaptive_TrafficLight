@@ -1,4 +1,4 @@
-# V2I 통신 기반 적응형 신호등
+# 교통 약자를 위한 지능형 교통 시스템
 
 ## 기술 스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
