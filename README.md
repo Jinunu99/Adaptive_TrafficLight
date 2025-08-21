@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 
 ## 개요
-교통 약자들의 보행 시간을 고려하여 최대 10초를 추가적으로 부여하여 유동적으로 신호등이 변화할 수 있도록 설계하고  
-해당 정보를 차량에서도 수신될 수 있도록 V2I 통신 개념을 이용한 지능형 교통 체계를 구축
+교통 약자를 인식하고 보행 시간을 고려하여 상황에 따라 시간이 연장되는 신호등 시스템 개발,  
+V2I 통신 개념을 이용하여 신호등 정보를 차량에서도 수신할 수 있도록 지능형 교통 체계를 구현
 
 * 2024-1 MIDAS 종합설계
 * 개발 기간 : 2024.03.04 ~ 06.07
